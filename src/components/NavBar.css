@@ -1,0 +1,3 @@
+.hover-naranja{
+    @apply hover:font-medium hover:text-[#FF7B05];
+}
